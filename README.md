@@ -25,9 +25,9 @@ Adventure Connect is an application for users within the Pacific NorthWest to cr
   - Organizers are responsible for managing event requests from other Users wishing to participate
 
 ### Deployment
-- Client - [adventure-connect.vercel.app](https://adventure-connect.vercel.app)
+- Client - [Re-Deployment soon, location changing]
   - Deployed through Vercel for CI/CD pipeline to auto-deploy upon changes to Main
-- Server - [adventure-connect-server.vercel.app](https://adventure-connect-server.vercel.app/api/events)
+- Server - [Re-Deployment soon, location changing]
   - Deployed as separate restful API (also through Vercel CI/CD)
   - CORS configured to allow access from Vercel Client URL
 - Database
